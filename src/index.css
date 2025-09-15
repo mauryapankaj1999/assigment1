@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+.rgbaonecoloer{
+  background-image: url('bgimg/etheron.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+.bgcricle{
+  position: fixed;
+    right: 0px;
+    left: 0px;
+    margin: auto;
+    z-index: 1;
+    /* width: 1150px; */
+    bottom: 0;
+    text-align: center;
+}
+.bgcricleimg{
+  background-image: url('bgimg/space.png');
+   margin: auto;
+      background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+         width: 78vw;
+    height: 77vh;
+}
+
